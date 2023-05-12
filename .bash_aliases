@@ -1,0 +1,5 @@
+alias logdir="/var/log/amros"
+alias gs="git status"
+alias gss="git status -sb"
+alias gb="git branch -a"
+alias gl="git log --format=reference --relative-date --graph"
