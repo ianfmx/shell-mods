@@ -1,0 +1,16 @@
+.bash_history
+.cache/
+.dbus/
+.dotnet/
+.gnupg/
+.local/
+.profile
+.ros/
+.ssh/
+.sudo_as_admin_successful
+.vscode-server/
+.wget-hsts
+amros_logs/
+downloads/
+ros2_amros/
+ros2_ws/
